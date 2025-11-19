@@ -1,6 +1,6 @@
 <div align="center">
 
-🎨 Artist Manager
+🎨 AI Artist Manager
 
 画师 Prompt 本地化管理工具
 
@@ -10,21 +10,28 @@
 
 
 
+
 无需安装，双击即用，帮助你高效整理、预览和组合画师标签 (Tags)。
 
-✨ 在线使用 (GitHub Pages)
+<!-- 👇👇👇 你的在线网址在这里 👇👇👇 -->
+
+🚀 点击这里在线使用 (GitHub Pages)
+
+<!-- 👆👆👆 你的在线网址在这里 👆👆👆 -->
 
 </div>
 
 🖼️ 界面预览 (Screenshots)
 
-<!-- 占位图 -->
-
-建议上传一张工具的运行截图放在这里
+<!-- 占位图：建议你之后把自己网页的截图上传上来，替换掉下面这个链接 -->
 
 ✨ 核心功能 (Features)
 
-功能描述🚀 纯本地运行
+功能
+
+描述
+
+🚀 纯本地运行
 
 单文件 HTML，0 依赖，无需联网，双击即用。
 
@@ -48,9 +55,8 @@
 
 方法一：在线使用 (推荐)
 
-直接访问 GitHub Pages 页面：
-
-👉 点击这里开始使用
+直接访问你的专属 GitHub Pages 页面，无需下载任何文件：
+👉 https://wu090955.github.io/ai-artist-tool/
 
 方法二：本地运行
 
@@ -87,11 +93,8 @@
 🤝 贡献 (Contributing)
 
 欢迎提交 Issue 或 Pull Request！
-
 如果你觉得这个工具好用，请给一个 ⭐️ Star 支持一下！
 
 <div align="center">
-
 <p>Made with ❤️ for the AI Art Community</p>
-
 </div>
